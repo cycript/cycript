@@ -23,7 +23,7 @@ I've added my github stats below since they look very cool.
 
 ![Cycript's GitHub stats](https://github-readme-stats.vercel.app/api?username=cycript&show_icons=true&theme=radical)
 
-![cycript's Streak](https://github-readme-streak-stats.herokuapp.com/?user=cycript&theme=darcula&hide_border=false)
+[![GitHub Streak](https://streak-stats.demolab.com?user=cycript&theme=dracula&hide_border=true&border_radius=4.4)](https://git.io/streak-stats)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cycript&layout=compact&theme=radical)
 

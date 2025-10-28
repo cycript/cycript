@@ -5,7 +5,7 @@ I like to learn as I build new things, so my projects, mostly private, are a mea
 I am always interested in new opportunities, so feel free to reach out to me at [my email](mailto:roguescript@proton.me)
 
 
-## Some Stuff I've used in the past
+## Some Stuff I've used in the past, or have messed with.
 
 - **Languages:** : C/C++, Rust, C#, Java, javascript (typescript)
 - **Frameworks:** : 
@@ -17,6 +17,7 @@ I am always interested in new opportunities, so feel free to reach out to me at 
 [libzippp](https://github.com/ctabin/libzippp), 
 [nlohhmann-json](https://github.com/nlohmann/json), 
 [zydis](https://zydis.re/)
+[ChaosPhysics](https://www.unrealengine.com/en-US)
 
 - - - 
 I've added my github stats below since they look very cool.
